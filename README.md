@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioRcsjr)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioRcsjr&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SergioRcsjr)](https://git.io/streak-stats)
