@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SergioRcsjr
-- 👀 I’m interested in JavaScript, React, HMTL, CSS...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioRcsjr&show_icons=true&theme=radical)
 
