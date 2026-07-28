@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Sérgio 👋</h1>
 
 <p align="center">
-  Estagiário / Desenvolvedor Júnior em busca de novas oportunidades 🚀
+  Desenvolvedor Júnior em busca de novas oportunidades 🚀
 </p>
 
 <p align="center">
